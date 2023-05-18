@@ -1,0 +1,12 @@
+,Team1,Team2,Venue,Team1_Status
+0,RCB,MI,MCG,Yes
+1,MI,CSK,SCG,Yes
+2,CSK,RR,MCG,No
+3,RR,LSG,Chepauk,Yes
+4,RCB,LSG,Chepauk,No
+5,CSK,DC,SCG,No
+6,DC,GT,Ranchi,Yes
+7,SRH,RCB,Ranchi,No
+8,GT,CSK,Lords,Yes
+9,RR,SRH,Lords,No
+10,DC,RR,Capetown,Yes
